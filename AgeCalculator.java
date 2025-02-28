@@ -8,14 +8,21 @@
 public class AgeCalculator{
     private int currentYear = 2025;
 
- /*   public CanIdrive(int yearBirth){
+    public int CanIdrive(int yearBirth){
     int age=currentYear-yearBirth;
-    if age=>16{
-        system.out.println("congratulations! you are allowed to drive") }
-    else{
+    if (age>=16){
+        System.out.println("congratulations! you are allowed to drive"); }
+    else{  
      int yearsLeft =16-age;
-     System.out.println("unfortunely, you can't drive yet, but in "+
+     if (yearsLeft ==1){
+     System.out.println("unfortunately, you can't drive yet, but in "+
+     yearsLeft+" year you will be allowed to drive");}
+     else {
+      System.out.println("unfortunately, you can't drive yet, but in "+
      yearsLeft+" years you will be allowed to drive");
-    }}
- */ 
+     }
+    }
+    return age;
+}
+  
 }

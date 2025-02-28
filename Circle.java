@@ -19,7 +19,7 @@ public class Circle
     /**
      * Create a new circle at default position with default color.
      */
-    public Circle()
+    public Circle() 
     {
         diameter = 68;
         xPosition = 230;
