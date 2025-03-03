@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all they need to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+PROJECT TITLE:Exam 1
+PURPOSE OF PROJECT:review questions
+AUTHORS:Laura Trujillo
+
+I liked how we went through the examn questions again, this helped to correct my mistakes and finally fully understand certain topics. I would like the teacher to do this again for next exam.
+
